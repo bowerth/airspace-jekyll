@@ -97,7 +97,8 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider Start
 --*/
 #slider {
-  background: url("../img/slider-bg.jpg") no-repeat;
+  /*background: url("../img/slider-bg.jpg") no-repeat;*/
+  background: url("../img/santacruz-house-edit.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
@@ -231,7 +232,8 @@ font header .navbar-default .navbar-nav li a:hover {
 	Feature Start
 --*/
 #feature {
-  background: url("../img/featue-bg.jpg");
+  /*background: url("../img/featue-bg.jpg");*/
+  background: url("../img/santacruz-garden-1-edit.jpg");
   background-position: 50% 94px;
   width: 100%;
   display: block;
@@ -261,7 +263,7 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #8d8f92;
   margin-bottom: 20px;
 }
-#feature .btn-view-works {
+#feature .btn-grey {
   background: #655E7A;
   color: #fff;
   padding: 10px 20px;
